@@ -1,0 +1,3 @@
+Nome: Eduardo Gavronski Neto 
+
+Na questão 8 e 9, é preciso usar o comando "pip install beautifulsoup4 requests" para funcionar corretamente
